@@ -1,0 +1,74 @@
+================================================================================
+CENTRAL MINE PLANNING & DESIGN INSTITUTE LIMITED (CMPDI)
+SOUTH EASTERN COALFIELDS LIMITED (SECL) - A SUBSIDIARY OF COAL INDIA LIMITED
+ANNUAL COAL PRODUCTION & OFFTAKE PERFORMANCE AUDIT REPORT (FY 2024-25)
+================================================================================
+Document Reference: CMPDI/RI-V/SECL/PROD/2025/AR-04
+Date of Publication: 12 April 2025
+Audited By: Directorate of Technical Operations & Mine Planning
+Mine Unit: Gevra Mega Opencast Project (Korba Coalfield, Chhattisgarh)
+Classification: Official Regulatory Compliance Record
+
+1. EXECUTIVE SUMMARY & CORPORATE HIGHLIGHTS
+--------------------------------------------------------------------------------
+During Fiscal Year 2024-25, Gevra Mega Opencast Project achieved an all-time record
+Run-of-Mine (ROM) coal production of 52.40 Million Tonnes (MT), surpassing the annual
+contractual target of 50.00 MT, which represents a performance achievement rate of 104.8%.
+Raw coal despatches across all logistics routes aggregated to 51.90 MT, catering to pithead
+super-thermal power stations (NTPC Korba, Sipat) and distant power utilities across Western India.
+
+2. PRODUCTION SUMMARY TABLE (AUDITED WEIGHBRIDGE NET FIGURES)
+--------------------------------------------------------------------------------
+TABLE 4: Annual Production, Target Variance and Stripping Ratio Summary
++-------------------+----------------+----------------+--------------+------------------+
+| Mine Unit         | Target (MT)    | Achieved (MT)  | Variance (%) | Stripping Ratio  |
++-------------------+----------------+----------------+--------------+------------------+
+| Gevra Mega OC     | 50.00 MT       | 52.40 MT       | +4.80%       | 3.71 m³/tonne    |
+| Kusmunda OCP      | 45.00 MT       | 45.12 MT       | +0.27%       | 3.85 m³/tonne    |
+| Dipka Project     | 35.00 MT       | 34.20 MT       | -2.29%       | 3.90 m³/tonne    |
+| Manikpur OC       | 5.50 MT        | 5.82 MT        | +5.82%       | 4.10 m³/tonne    |
++-------------------+----------------+----------------+--------------+------------------+
+| Total SECL Mega   | 135.50 MT      | 137.54 MT      | +1.51%       | 3.82 m³/tonne    |
++-------------------+----------------+----------------+--------------+------------------+
+
+[Traceability Key: GEV-2025-TBL04-P18]
+- Source Document: Production_Report_2025.pdf
+- Page Number: 18
+- Table: Table 4 (Production Summary)
+- Extracted Metric: 52.40 MT (52,400,000 Tonnes)
+- Verification Status: Validated by Field General Manager (Weighbridge Calibrated)
+
+3. MONTHLY EVACUATION & RAIL DESPATCH BREAKDOWN
+--------------------------------------------------------------------------------
+Peak monthly despatch from Gevra Mega OC was established in January 2025, recording
+1,245,000 tonnes evacuated via mechanized Merry-Go-Round (MGR) railway circuits and
+in-pit rapid loading system (RLS) silos.
+
+TABLE 7: Monthly Coal Dispatch Metrics (January - March 2025)
++----------------+---------------------+-------------------+---------------------+
+| Month          | MGR Silo Despatch   | Indian Rail Rakes | Road Logistics      |
++----------------+---------------------+-------------------+---------------------+
+| January 2025   | 840,000 tonnes      | 325,000 tonnes    | 80,000 tonnes       |
+| -> Peak Total  | 1,245,000 tonnes (Official Audited Net Weighbridge Total)     |
+| February 2025  | 790,000 tonnes      | 295,000 tonnes    | 65,000 tonnes       |
+| March 2025     | 820,000 tonnes      | 310,000 tonnes    | 72,000 tonnes       |
++----------------+---------------------+-------------------+---------------------+
+
+[Traceability Key: GEV-2025-TBL07-P27]
+- Source Document: Production_Report_2025.pdf
+- Page Number: 27
+- Paragraph: 4.3 (Peak Rail Dispatch)
+- Extracted Metric: 1,245,000 tonnes
+- Discrepancy Note: Do not confuse with provisional road consignment notes in Ministry submission (1,268,000 tonnes).
+
+4. OVERBURDEN REMOVAL & HEMM FLEET AVAILABILITY
+--------------------------------------------------------------------------------
+Overburden Removal (OBR) for FY 2024-25 reached 194.40 Million Cubic Metres (M.Cum).
+Fleet availability for 42 cum rope shovels was maintained at 84.6%, and 240-tonne dumpers
+achieved 82.1% operational availability under computerized dispatch monitoring (DISPATCH®).
+
+5. SIGN-OFF & CERTIFICATION
+--------------------------------------------------------------------------------
+Certified True and Traceable to Source Weighbridges and Production Logs.
+Chief General Manager (Mining), SECL Gevra Area
+Director (Technical Operations), CMPDI Ranchi

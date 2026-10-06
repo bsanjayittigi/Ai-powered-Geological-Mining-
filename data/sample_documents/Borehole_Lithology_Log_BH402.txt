@@ -1,0 +1,49 @@
+================================================================================
+CENTRAL MINE PLANNING & DESIGN INSTITUTE (CMPDI) - DRILLING DIVISION
+BOREHOLE LITHOLOGY LOG & STRATIGRAPHIC CORE RECORD
+PROJECT: KUSMUNDA OPEN CAST EXPANSION (SECL)
+================================================================================
+Borehole Number: BH-402
+Grid Coordinates: Northing 2451240.50 N, Easting 482150.20 E
+Collar Elevation (RL): +294.60 m MSL
+Total Depth Drilled: 240.00 metres
+Drilling Rig: Voltas 90 Hydraulic Core Drill (HQ / NQ wireline)
+Date Commenced: 04 July 2025 | Date Completed: 22 July 2025
+Core Logger: Senior Geologist, CMPDI Drilling Camp No. 4
+
+DEPTH INTERVAL & CORE LOGGING TABLE
+--------------------------------------------------------------------------------
+TABLE 2: Core Recovery, Stratigraphy & Lithological Description
++-------------+-------------+------------+-------------+----------+-------------------------------------+
+| From (m)    | To (m)      | Run (m)    | Core Rec(m) | Rec (%)  | Lithological Description            |
++-------------+-------------+------------+-------------+----------+-------------------------------------+
+| 0.00        | 14.50       | 14.50      | 8.70        | 60.0%    | Weathered yellow sandy topsoil & clay|
+| 14.50       | 52.80       | 38.30      | 34.80       | 90.9%    | Medium to coarse grained sandstone  |
+| 52.80       | 58.20       | 5.40       | 4.90        | 90.7%    | Grey carbonaceous shale with mica   |
+| 58.20       | 64.60       | 6.40       | 6.20        | 96.9%    | COAL SEAM UPPER (Dull banded)       |
+| 64.60       | 142.00      | 77.40      | 72.80       | 94.1%    | Feldspathic gritty sandstone        |
+| 142.00      | 155.20      | 13.20      | 11.90       | 90.2%    | Alternating siltstone and shale     |
+| 155.20      | 168.40      | 13.20      | 12.12       | 91.8%    | COAL SEAM LOWER (Main Kusmunda Seam)|
+| 168.40      | 240.00      | 71.60      | 67.30       | 94.0%    | Basement sandstone & basal tillite  |
++-------------+-------------+------------+-------------+----------+-------------------------------------+
+
+[Traceability Key: KUS-BH402-TBL02-P19]
+- Source Document: Borehole_Lithology_BH402.pdf
+- Page Number: 19
+- Table: Drilling Log Depth Interval 142m - 178m
+- Extracted Metric: 91.8% core recovery (Interval 155.20 m - 168.40 m)
+- Rock Quality Designation (RQD): 82.4%
+- Validation State: Needs Review (Triggered by localized stripping ratio anomaly)
+
+GEOTECHNICAL CORE REMARKS
+--------------------------------------------------------------------------------
+1. Coal Seam Lower between 155.20m and 168.40m represents an aggregate gross thickness
+   of 13.20 metres with 0.85m interbedded shale parting.
+2. Core recovery of 91.8% across the target coal zone confirms high integrity for open cast
+   highwall extraction.
+3. Slake durability index: Id2 = 94.2% (High durability roof sandstone).
+4. Groundwater seepage encountered at 62.40m RL, requiring pithead dewatering gallery.
+
+Certified by:
+Geologist-in-Charge, CMPDI Rig Unit 14
+Executive Director (Exploration), SECL Bilaspur

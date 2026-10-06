@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  # 1. PostgreSQL with pgvector for Vector Search & Structured Data
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: oresight-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-oresight_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-oresight_secure_pass_2026}
+      POSTGRES_DB: ${POSTGRES_DB:-oresight_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-oresight_admin} -d ${POSTGRES_DB:-oresight_db}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # 2. OreSight Python Backend (FastAPI + OCR + RAG + Validation)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: oresight-backend
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-oresight_admin}:${POSTGRES_PASSWORD:-oresight_secure_pass_2026}@postgres:5432/${POSTGRES_DB:-oresight_db}
+      ENVIRONMENT: production
+      SECRET_KEY: ${SECRET_KEY:-oresight_jwt_secret_key_sih2026_cmpdi}
+      OCR_ENGINE: pymupdf_paddle
+      VECTOR_STORE: pgvector
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  # 3. OreSight Frontend (React + Vite + Tailwind CSS)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: oresight-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:
+    driver: local

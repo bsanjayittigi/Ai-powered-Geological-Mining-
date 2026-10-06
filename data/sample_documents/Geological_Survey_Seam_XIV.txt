@@ -1,0 +1,61 @@
+================================================================================
+CMPDI REGIONAL INSTITUTE II - DHANBAD (JHARKHAND)
+GEOLOGICAL EXPLORATION & STRUCTURAL ASSESSMENT REPORT
+JHARIA COALFIELD - BARAKAR FORMATION: SEAM XIV & SEAM XIII CORRELATION
+================================================================================
+Report Code: CMPDI/RI-II/GEO/JHA/2025/REP-88
+Subsidiary: Bharat Coking Coal Limited (BCCL)
+Mine Operational Block: North Tisra & Lodna Area
+Exploration Stage: Detailed Exploration for Deep Coking Coal Extraction
+Lead Geologist: Ananya Sengupta, Senior Geologist, Exploration Division
+
+1. GEOLOGICAL FRAMEWORK & REGIONAL STRATIGRAPHY
+--------------------------------------------------------------------------------
+The Jharia Coalfield represents a premier depository of prime and medium coking coal
+in India, belonging to the Gondwana Supergroup (Permian Barakar Formation). Detailed
+core drilling across Sector C identified continuous deposition of Seam XIV and Seam XIII
+with minimal faulting and structural dips ranging between 4° and 7° south-westerly.
+
+2. SEAM XIV THICKNESS & LITHOLOGICAL PROFILE
+--------------------------------------------------------------------------------
+Seam XIV exhibits a persistent average gross thickness of 8.45 metres across exploratory
+boreholes BH-12 through BH-28. The coal horizon comprises bright banded vitrain-rich
+coking coal with occasional carbonaceous shale partings ranging from 0.15 to 0.40 metres.
+
+TABLE 3B: Seam XIV & XIII Borehole Strata Correlation Summary
++--------------+-------------+-------------+------------------+-------------------+
+| Borehole ID  | Collar RL   | Total Depth | Seam XIV Gross   | Net Coal Horizon  |
++--------------+-------------+-------------+------------------+-------------------+
+| BH-12        | +184.20 m   | 285.50 m    | 8.42 metres      | 8.10 metres       |
+| BH-18        | +181.65 m   | 310.20 m    | 8.51 metres      | 8.24 metres       |
+| BH-24        | +179.40 m   | 298.00 m    | 8.44 metres      | 8.18 metres       |
+| BH-28        | +182.10 m   | 325.40 m    | 8.43 metres      | 8.12 metres       |
++--------------+-------------+-------------+------------------+-------------------+
+| Seam Mean    |             |             | 8.45 metres      | 8.16 metres       |
++--------------+-------------+-------------+------------------+-------------------+
+
+[Traceability Key: JHA-2025-TBL3B-P34]
+- Source Document: Geological_Survey_2025.pdf
+- Page Number: 34
+- Table: Seam Lithology Correlation Chart 3B
+- Extracted Metric: 8.45 metres (Gross Thickness)
+- Core Recovery in Coal Zone: 96.5% average
+- Verification Status: Validated by Regional Exploration Geologist
+
+3. PETROGRAPHIC & COKING QUALITY CHARACTERISTICS
+--------------------------------------------------------------------------------
+Proximate analysis conducted on 60 mesh washed core composites yielded:
+- Mean Vitrinite Reflectance (Ro max): 1.18% - 1.24% (Prime Coking Band)
+- Crucible Swelling Number (CSN): 6.5 to 7.0
+- Volatile Matter (d.a.f.): 24.8% to 26.2%
+- Coking Coal Classification: Steel Grade I (Ash <= 15.0% after beneficiation)
+
+4. ESTIMATED RESERVES IN BLOCK
+--------------------------------------------------------------------------------
+Proved Mineable Reserves in Seam XIV Sector C: 42.60 Million Tonnes.
+Inferred Geological Reserves: 68.40 Million Tonnes.
+Recommended Extraction Method: Powered Support Longwall (PSLW) or Continuous Miner.
+
+Signed:
+Ananya Sengupta, Lead Geologist, CMPDI RI-II
+General Manager (Exploration), BCCL Dhanbad
